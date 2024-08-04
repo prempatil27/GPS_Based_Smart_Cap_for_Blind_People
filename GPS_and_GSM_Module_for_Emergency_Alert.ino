@@ -73,7 +73,7 @@ void loop() {
     // Make a phone call
     Serial.println("Call");
     delay(20000);
-    Gsm.println("ATD+918484908422;");
+    Gsm.println("ATD+91xxxxxxxxxx;");
     delay(150000);
     Gsm.println("ATH");
     delay(1000);
