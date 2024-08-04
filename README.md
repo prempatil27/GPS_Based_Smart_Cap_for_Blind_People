@@ -28,8 +28,8 @@ GPS_and_GSM_Module_for_Emergency_Alert:
 -Push Button: Pin 11 and GND
 
 Upload Code:
--Use Arduino IDE to upload the first code to Arduino Uno.
--Use Arduino IDE to upload the second code to Arduino Nano.
+-Use Arduino IDE to upload the first code(Obstacle_Detection_with_Ultrasonic_Sensors.ino) to Arduino Uno.
+-Use Arduino IDE to upload the second code(GPS_and_GSM_Module_for_Emergency_Alert.ino) to Arduino Nano.
 
 Connect Components according to the circuit diagram. Power Up the system and wear the cap.
 The smart cap will provide obstacle detection alerts through vibrations. Pressing the push button will send the current location to the predefined contact number.
